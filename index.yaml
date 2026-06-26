@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tcs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-26T13:27:48.621454392Z"
+    description: A Helm chart for Kubernetes
+    digest: ffdf28ac1a886c4744f773112c526e24e8ace2a210422fcb563966f6e7e986fd
+    name: tcs
+    type: application
+    urls:
+    - tcs-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-26T13:27:48.620433594Z"
